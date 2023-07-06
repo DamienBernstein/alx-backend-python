@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Contains function sum_list which takes a list of floats and returns their sum."""
+"""Contains function that sums a list of floats"""
 from typing import List
 
 
