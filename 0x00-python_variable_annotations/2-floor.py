@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Type-annotated function floor which takes a float n as argument and returns the floor of the float."""
+"""Contains a single function that calculates the floor of a number."""
 
 import math
 
